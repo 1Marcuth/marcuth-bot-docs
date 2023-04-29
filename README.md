@@ -180,7 +180,7 @@
 
 - `/reveal-video`
 <br>
-<b>Descrição:</b> Copia a imagem da mensagem marcada com o comando, mesmo se ela for de visualização única.
+<b>Descrição:</b> Copia o vídeo da mensagem marcada com o comando, mesmo ele se for de visualização única.
 <br><br>
 <img src="static/images/command-prints/reveal-video.png" alt="Exemplo de uso do comando `reveal-video`">
 
