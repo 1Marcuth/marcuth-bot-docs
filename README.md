@@ -34,7 +34,7 @@
 <br>
 <b>Descrição:</b> Envia o menu do bot.
 <br><br>
-<img src="static/images/command-prints/ping.png" alt="Exemplo de uso do comando `ping`">
+<img src="static/images/command-prints/menu.png" alt="Exemplo de uso do comando `menu`">
 
 <hr>
 
