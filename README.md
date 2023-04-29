@@ -2,7 +2,7 @@
 
 <hr>
 
-## Categoria: Admin
+## Categoria: Administação
 
 - `/add-member`
 <br>
@@ -28,7 +28,7 @@
 
 <hr>
 
-## Categoria: Info
+## Categoria: Informação
 
 - `/menu`
 <br>
@@ -45,6 +45,8 @@
 <img src="static/images/command-prints/ping.png" alt="Exemplo de uso do comando `ping`">
 
 <hr>
+
+## Categoria: Ferramentas
 
 - `/docx2pdf`
 <br>
@@ -110,7 +112,7 @@
 
 <hr>
 
-## Categoria: Utils
+## Categoria: Utilitários
 
 - `/cep`
 <br>
@@ -136,7 +138,7 @@
 
 <hr>
 
-## Categoria: WhatsApp tools
+## Categoria: Ferramentas para WhatsApp
 
 - `/sticker`
 <br>
