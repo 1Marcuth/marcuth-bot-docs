@@ -134,7 +134,9 @@
 <br>
 <b>Descrição:</b> Rastreia sua encomenda.
 <br><br>
-<img src="static/images/command-prints/track-back.png" alt="Exemplo de uso do comando `track-back`">
+<img src="static/images/command-prints/track-back-part-1.png" alt="Exemplo de uso do comando `track-back` parte 1">
+<br>
+<img src="static/images/command-prints/track-back-part-2.png" alt="Exemplo de uso do comando `track-back` parte 2">
 
 <hr>
 
