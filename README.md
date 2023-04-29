@@ -4,7 +4,7 @@
 
 ## Categoria: Administação
 
-- `/add-member`
+### Comando: `/add-member`
 <br>
 <b>Descrição:</b> Adiciona um membro ao grupo.
 <br><br>
@@ -12,7 +12,7 @@
 
 <hr>
 
-- `/remove-member`
+### Comando: `/remove-member`
 <br>
 <b>Descrição:</b> Remove um membro do grupo.
 <br><br>
@@ -20,7 +20,7 @@
 
 <hr>
 
-- `/set-description`
+### Comando: `/set-description`
 <br>
 <b>Descrição:</b> Altera a descrição atual do grupo para outra.
 <br><br>
@@ -30,7 +30,7 @@
 
 ## Categoria: Informação
 
-- `/menu`
+### Comando: `/menu`
 <br>
 <b>Descrição:</b> Envia o menu do bot.
 <br><br>
@@ -38,7 +38,7 @@
 
 <hr>
 
-- `/ping`
+### Comando: `/ping`
 <br>
 <b>Descrição:</b> Envia o ping do bot.
 <br><br>
@@ -48,7 +48,7 @@
 
 ## Categoria: Ferramentas
 
-- `/docx2pdf`
+### Comando: `/docx2pdf`
 <br>
 <b>Descrição:</b> Converte um arquivo `.docx` para `.pdf`.
 <br><br>
@@ -56,7 +56,7 @@
 
 <hr>
 
-- `/pdf2docx`
+### Comando: `/pdf2docx`
 <br>
 <b>Descrição:</b> Converte um arquivo `.pdf.` para `.docx`.
 <br><br>
@@ -64,7 +64,7 @@
 
 <hr>
 
-- `/eval-math`
+### Comando: `/eval-math`
 <br>
 <b>Descrição:</b> Resolve uma operação matemática.
 <br><br>
@@ -72,7 +72,7 @@
 
 <hr>
 
-- `/rm-bg`
+### Comando: `/rm-bg`
 <br>
 <b>Descrição:</b> Remove o fundo de uma imagem e envia como documento.
 <br><br>
@@ -90,13 +90,13 @@
 
 <hr>
 
-- `/scrape`
+### Comando: `/scrape`
 <br>
 <b>Descrição:</b> Pega o HTML de uma página web e envia como documento.
 <br><br>
 <img src="static/images/command-prints/scrape.png" alt="Exemplo de uso do comando `scrape`">
 
-- `/yt-audio`
+### Comando: `/yt-audio`
 <br>
 <b>Descrição:</b> Baixa áudio de um vídeo do YouTube e envia no chat.
 <br><br>
@@ -104,7 +104,7 @@
 
 <hr>
 
-- `/yt-video`
+### Comando: `/yt-video`
 <br>
 <b>Descrição:</b> Baixa um vídeo do YouTube e envia no chat.
 <br><br>
@@ -114,7 +114,7 @@
 
 ## Categoria: Utilitários
 
-- `/cep`
+### Comando: `/cep`
 <br>
 <b>Descrição:</b> Consulta dados de um cep e envia no chat.
 <br><br>
@@ -122,7 +122,7 @@
 
 <hr>
 
-- `/reminder`
+### Comando: `/reminder`
 <br>
 <b>Descrição:</b> Cria um lembrete e te envia uma mensagem depois do tempo se esgotar.
 <br><br>
@@ -130,7 +130,7 @@
 
 <hr>
 
-- `/track-back`
+### Comando: `/track-back`
 <br>
 <b>Descrição:</b> Rastreia sua encomenda.
 <br><br>
@@ -140,7 +140,7 @@
 
 ## Categoria: Ferramentas para WhatsApp
 
-- `/sticker`
+### Comando: `/sticker`
 <br>
 <b>Descrição:</b> Transforma uma imagem em uma figrinha cortando a imagem original em um quadrado.
 <br><br>
@@ -148,7 +148,7 @@
 
 <hr>
 
-- `/dented-sticker`
+### Comando: `/dented-sticker`
 <br>
 <b>Descrição:</b> Transforma uma imagem em uma figrinha sem cortar a imagem original.
 <br><br>
@@ -156,7 +156,7 @@
 
 <hr>
 
-- `/sticker2img`
+### Comando: `/sticker2img`
 <br>
 <b>Descrição:</b> Transforma figurinha em uma imagem e envia no chat.
 <br><br>
@@ -164,7 +164,7 @@
 
 <hr>
 
-- `/sticker2doc`
+### Comando: `/sticker2doc`
 <br>
 <b>Descrição:</b> Transforma figurinha em uma imagem e envia como documento no chat.
 <br><br>
@@ -172,7 +172,7 @@
 
 <hr>
 
-- `/reveal-image`
+### Comando: `/reveal-image`
 <br>
 <b>Descrição:</b> Copia a imagem da mensagem marcada com o comando, mesmo se ela for de visualização única.
 <br><br>
@@ -180,7 +180,7 @@
 
 <hr>
 
-- `/reveal-video`
+### Comando: `/reveal-video`
 <br>
 <b>Descrição:</b> Copia o vídeo da mensagem marcada com o comando, mesmo ele se for de visualização única.
 <br><br>
