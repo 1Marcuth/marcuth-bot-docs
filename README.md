@@ -57,8 +57,8 @@
 <b>Descrição:</b> Remove o fundo de uma imagem e envia como documento.
 <br><br>
 <img src="static/images/command-prints/rm-bg.png" alt="Exemplo de uso do comando `rm-bg`">
-<img src="static/images/others/img-with-bg.png">
-<img src="static/images/others/img-without-bg.png">
+<img src="static/images/outhers/img-with-bg.png" alt="Imagem com fundo.">
+<img src="static/images/outhers/img-without-bg.png" alt="Imagem sem fundo (removido usando o comando).">
 
 - `/scrape`
 <br>
